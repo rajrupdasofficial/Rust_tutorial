@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "borrow_checking"
+name = "concept_of_owenership"
 version = "0.1.0"
